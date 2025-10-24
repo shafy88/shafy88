@@ -1,7 +1,10 @@
 # 💫 Hey i'm Sheikh Abdur Rouf:
 **A passionate Web-developer || Frontend-development || Bangladesh**
 
+<img width="890" height="890" alt="Front-end Developer" src="https://github.com/user-attachments/assets/1666a48d-7459-4db4-946e-b641169c155b" />
+
 ## Email Me 👉 ✉️ **abdurroufshafy@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
 -🔭 I’m currently working on Learning Web-development 
 -👯 I’m looking to collaborate on Github
 -🤝 I’m looking for help with HTML, CSS, JS
