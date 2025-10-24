@@ -1,6 +1,7 @@
 # 💫 Hey i'm Sheikh Abdur Rouf:
 
-<img width="890" height="auto" alt="Front-end Developer" src="https://github.com/user-attachments/assets/1666a48d-7459-4db4-946e-b641169c155b" />
+<img width="890" height="500" alt="Front-end Developer" src="https://github.com/user-attachments/assets/1666a48d-7459-4db4-946e-b641169c155b" />
+
 
 **A passionate Web-developer || Frontend-development || Bangladesh**
 
