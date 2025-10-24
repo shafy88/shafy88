@@ -1,7 +1,8 @@
 # 💫 Hey i'm Sheikh Abdur Rouf:
-**A passionate Web-developer || Frontend-development || Bangladesh**
 
-<img width="890" height="890" alt="Front-end Developer" src="https://github.com/user-attachments/assets/1666a48d-7459-4db4-946e-b641169c155b" />
+<img width="890" height="auto" alt="Front-end Developer" src="https://github.com/user-attachments/assets/1666a48d-7459-4db4-946e-b641169c155b" />
+
+**A passionate Web-developer || Frontend-development || Bangladesh**
 
 ## Email Me 👉 ✉️ **abdurroufshafy@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
